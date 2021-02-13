@@ -1,0 +1,26 @@
+{
+  "name": "repply",
+  "version": "1.0.0",
+  "description": "Repply te permite generar respuestas a partir de algunos datos",
+  "main": "./dist/repply.common.js",
+  "scripts": {
+    "dev": "nodemon /dist/repply.common.js"
+  },
+  "keywords": [],
+  "author": "Frank Alvarez",
+  "license": "MIT",
+  "dependencies": {
+    "fuse.js": "^6.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamfrankalvarez/repply.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamfrankalvarez/repply/issues"
+  },
+  "homepage": "https://github.com/iamfrankalvarez/repply/"
+}
